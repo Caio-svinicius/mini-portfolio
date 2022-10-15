@@ -34,7 +34,7 @@ body{
 
 .cartao .minhas-informacoes img{
     border-radius: 50px;
-    border: 4px solid #e228d8;
+    border: 4px solid #28e275;
 }
 
 .cartao .minhas-informacoes .nome{
@@ -103,7 +103,7 @@ body{
 }
 
 .informacoes-abas .descricao span{
-    color: #e228d8;
+    color: #28e275;
 }
 
 .redes-sociais{
